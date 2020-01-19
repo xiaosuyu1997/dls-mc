@@ -1,4 +1,4 @@
-﻿#include <algorithm>
+#include <algorithm>
 #include <assert.h>
 #include <cmath>
 #include <cstdio>
